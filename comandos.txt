@@ -1,0 +1,19 @@
+Instalamos yarn
+    -npm install -g yarn
+
+
+documentacion para inicar proyecto de react native
+    -https://reactnative.dev/docs/environment-setup?package-manager=yarn
+
+
+Instalar expo GO  crear una aplicacion
+    -yarn create expo-app AwesomeProject
+
+ver la version de expo
+    -expo --version
+
+
+Instalar android studio
+
+correr expo go en android 
+    -yarn android
