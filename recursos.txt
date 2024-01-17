@@ -1,2 +1,24 @@
 sitio oficial de react native
     -https://reactnative.dev/
+
+React navigation // Como react Routes
+    -https://reactnavigation.org/
+
+    -yarn add @react-navigation/native
+    -npx expo install react-native-screens react-native-safe-area-context
+
+    React navigation
+    -https://reactnavigation.org/docs/hello-react-navigation
+    -yarn add @react-navigation/native-stack
+
+    Tab navigation
+    -https://reactnavigation.org/docs/tab-based-navigation
+    -yarn add @react-navigation/bottom-tabs
+
+    Drawer navigation
+    -https://reactnavigation.org/docs/drawer-based-navigation
+    -yarn add @react-navigation/drawer
+    -npx expo install react-native-gesture-handler react-native-reanimated
+
+Repositorio del curso
+    -https://github.com/platzi/curso-react-native-intro/tree/7e49a821052eb948f3e5cc1b33ab1c57d11dca6f
