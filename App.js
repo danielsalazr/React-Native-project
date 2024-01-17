@@ -8,6 +8,7 @@ import LoginForm from './src/components/LoginForm';
 import Saludar from './src/components/Saludar';
 
 import NavigationStack from './src/navigation/NavigationStack';
+import NavigationTab from './src/navigation/NavigationTab';
 
 
 
@@ -25,7 +26,8 @@ export default function App() {
         <Saludar firstname='Lucas' lastname={7}/> 
         <StatusBar style="auto" />
       </View> */}
-      <NavigationStack />
+      {/* <NavigationStack /> */}
+      <NavigationTab />
     </NavigationContainer>
     
   );
