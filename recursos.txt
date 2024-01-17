@@ -20,5 +20,10 @@ React navigation // Como react Routes
     -yarn add @react-navigation/drawer
     -npx expo install react-native-gesture-handler react-native-reanimated
 
+    Añadir la siguiente linea en el archivo de babel.config.js plugins: ['react-native-reanimated/plugin']
+
+    y luego correr el siguiente comando para borrar el cache de la app: expo r -c
+
+
 Repositorio del curso
     -https://github.com/platzi/curso-react-native-intro/tree/7e49a821052eb948f3e5cc1b33ab1c57d11dca6f

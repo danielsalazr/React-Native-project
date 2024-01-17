@@ -9,6 +9,7 @@ import Saludar from './src/components/Saludar';
 
 import NavigationStack from './src/navigation/NavigationStack';
 import NavigationTab from './src/navigation/NavigationTab';
+import NavigationDrawer from './src/navigation/NavigationDrawer';
 
 
 
@@ -27,7 +28,8 @@ export default function App() {
         <StatusBar style="auto" />
       </View> */}
       {/* <NavigationStack /> */}
-      <NavigationTab />
+      {/* <NavigationTab /> */}
+      <NavigationDrawer />
     </NavigationContainer>
     
   );
