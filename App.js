@@ -15,7 +15,7 @@ export default function App() {
       <LoginForm />
       <Saludar firstname="Daniel" lastname="Figueroa" />
       {/* <Saludar firstname="Estebana" lastname="Banda" /> */}
-      <Saludar /> 
+      <Saludar firstname='Lucas' lastname={7}/> 
       <StatusBar style="auto" />
     </View>
   );
